@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683786488104",
+    "project_id": "geomarketingfortaleza",
+    "storage_bucket": "geomarketingfortaleza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683786488104:android:17f05f36f55813d1b4a81d",
+        "android_client_info": {
+          "package_name": "com.example.geomarketing_radiadores_fortaleza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683786488104-24nnj4408flun57eulpbmmaknih7ff42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUd4QupehlG-uK-zziuB1dyZobFaP30M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683786488104-24nnj4408flun57eulpbmmaknih7ff42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
